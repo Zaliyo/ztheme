@@ -1,0 +1,49 @@
+name = ZTheme
+description = Ztheme is a bootstrap starter theme
+core = 7.x
+base theme = bootstrap
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Default Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[navigation]     = 'Navigation'
+regions[header]         = 'Top Bar'
+regions[highlighted]    = 'Highlighted'
+regions[help]           = 'Help'
+regions[content]        = 'Content'
+regions[sidebar_first]  = 'Primary'
+regions[sidebar_second] = 'Secondary'
+regions[page_top]       = 'Page top'
+regions[page_bottom]    = 'Page bottom'
+regions[footer]         = 'Footer'
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Extra Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[leaderboard1]   = 'Leaderboard1'
+regions[leaderboard2]   = 'Leaderboard2'
+regions[slider]         = 'Slider'
+
+regions[content_bottom1]   = 'Content Bottom 1'
+regions[content_bottom2]   = 'Content Bottom 2'
+
+regions[footer_top]     = 'Footer Top'
+regions[footer_box1]    = 'Footer Box 1'
+regions[footer_box2]    = 'Footer Box 2'
+regions[footer_box3]    = 'Footer Box 3'
+regions[footer_box4]    = 'Footer Box 4'
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Stylesheets
+;;;;;;;;;;;;;;;;;;;;;
+
+stylesheets[all][] = css/style.css
+
+; Information added by Drupal.org packaging script on 2018-05-05
+version = "7.x-2.2"
+core = "7.x"
+project = "ztheme"
+datestamp = "1525545484"
