@@ -1,7 +1,7 @@
 <!-- @file Instructions on how to sub-theme the Drupal Bootstrap base theme using the CDN Starterkit. -->
 <!-- @defgroup subtheme_cdn -->
 <!-- @ingroup subtheme -->
-# CDN Starterkit
+# zTheme Drupal Bootstrap Starter Theme
 
 The CDN Starterkit is rather simple to set up. You don't have to do anything
 until you wish to override the default [Drupal Bootstrap] base theme settings
